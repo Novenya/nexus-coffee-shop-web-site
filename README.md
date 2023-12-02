@@ -37,11 +37,6 @@ This project involves the development of a website for a fictional coffee shop. 
 - Responsive design to ensure a seamless experience across various devices.
 - Stylish typography and layout for a modern and visually appealing appearance.
 
-## Bootstrap Integration
-
-- Utilizes Bootstrap classes for grid layout, navigation bar, and responsive design elements.
-- Leverages Bootstrap components for styling forms and buttons.
-
 ## JavaScript Interactivity
 
 - Smooth scrolling effect for navigation links.
