@@ -1,8 +1,6 @@
 # nexus-coffee-shop
 ---
 
-# Coffee Shop Website
-
 ## Overview
 
 This project involves the development of a website for a fictional coffee shop. The goal is to create a visually appealing and user-friendly online platform that showcases the coffee shop's offerings, ambiance, and allows users to explore the menu and contact the establishment.
